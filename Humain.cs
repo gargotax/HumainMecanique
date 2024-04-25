@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace HumainMecanique
 {
-    public class Humain1 : IHumain
+    public class Humain : IHumain
     {
         public Ibras Ibras { get; }
 
