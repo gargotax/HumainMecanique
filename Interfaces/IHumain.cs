@@ -1,4 +1,5 @@
-﻿using System;
+﻿using HumainMecanique.PartiesMecaniques;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,8 +14,8 @@ namespace HumainMecanique.Interfaces
         IMain IMain { get; }
         IDoigt IDoigt { get; }
         IOrteil IOrteil { get; }
-        void MarcherAvecJambeMecanique();
-        void GrefferBras();
-        void GrefferJambes();
+        void MarcherAvecJambeMecanique(JambesMecaniques jambesMecaniques);
+        BrasMecanique GrefferBras(BrasMecanique brasMecanique);
+        JambesMecaniques GrefferJambes(JambesMecaniques jambesMecaniques);
     }
 }

@@ -1,4 +1,5 @@
 ﻿using HumainMecanique.Interfaces;
+using HumainMecanique.PartiesMecaniques;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,17 +20,15 @@ namespace HumainMecanique
 
         public IOrteil IOrteil { get; }
 
-        public void GrefferBras()
+        public BrasMecanique GrefferBras(BrasMecanique brasMecanique)
+        {
+            return new BrasMecanique();
+        }
+        public void MarcherAvecJambeMecanique(JambesMecaniques jambesMecaniques)
         {
             throw new NotImplementedException();
         }
-
-        public void GrefferJambes()
-        {
-            throw new NotImplementedException();
-        }
-
-        public void MarcherAvecJambeMecanique()
+        public JambesMecaniques GrefferJambes(JambesMecaniques jambesMecaniques)
         {
             throw new NotImplementedException();
         }
