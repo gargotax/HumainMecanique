@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\hachemi\mestests\HumainMecanique\HumainMecanique\bin\Debug\net6.0\HumainMecanique.exe
+C:\Users\HP\Desktop\hachemi\mestests\HumainMecanique\HumainMecanique\bin\Debug\net6.0\HumainMecanique.deps.json
+C:\Users\HP\Desktop\hachemi\mestests\HumainMecanique\HumainMecanique\bin\Debug\net6.0\HumainMecanique.runtimeconfig.json
+C:\Users\HP\Desktop\hachemi\mestests\HumainMecanique\HumainMecanique\bin\Debug\net6.0\HumainMecanique.dll
+C:\Users\HP\Desktop\hachemi\mestests\HumainMecanique\HumainMecanique\bin\Debug\net6.0\HumainMecanique.pdb
+C:\Users\HP\Desktop\hachemi\mestests\HumainMecanique\HumainMecanique\obj\Debug\net6.0\HumainMecanique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\hachemi\mestests\HumainMecanique\HumainMecanique\obj\Debug\net6.0\HumainMecanique.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\hachemi\mestests\HumainMecanique\HumainMecanique\obj\Debug\net6.0\HumainMecanique.AssemblyInfo.cs
+C:\Users\HP\Desktop\hachemi\mestests\HumainMecanique\HumainMecanique\obj\Debug\net6.0\HumainMecanique.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\hachemi\mestests\HumainMecanique\HumainMecanique\obj\Debug\net6.0\HumainMecanique.dll
+C:\Users\HP\Desktop\hachemi\mestests\HumainMecanique\HumainMecanique\obj\Debug\net6.0\refint\HumainMecanique.dll
+C:\Users\HP\Desktop\hachemi\mestests\HumainMecanique\HumainMecanique\obj\Debug\net6.0\HumainMecanique.pdb
+C:\Users\HP\Desktop\hachemi\mestests\HumainMecanique\HumainMecanique\obj\Debug\net6.0\HumainMecanique.genruntimeconfig.cache
+C:\Users\HP\Desktop\hachemi\mestests\HumainMecanique\HumainMecanique\obj\Debug\net6.0\ref\HumainMecanique.dll
