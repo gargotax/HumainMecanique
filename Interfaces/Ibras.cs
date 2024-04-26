@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace HumainMecanique.Interfaces
 {
-    public interface Ibras
+    public interface IBras
     {
         public int Longueur { get; }
-        public string Materiel { get; }
-        public string Revetement { get; }
+
     }
 }

@@ -9,8 +9,6 @@ namespace HumainMecanique.Interfaces
     public interface IOrteil
     {
         string Longueur { get; }
-        string Materiel { get; }
-        string Revetement { get; }
 
     }
 }

@@ -5,6 +5,10 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+
+            Humain humain = new Humain("test");
+            Console.WriteLine(humain.JambeHumaineGauche);
+
         }
     }
 }

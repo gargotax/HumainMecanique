@@ -7,15 +7,8 @@ using System.Threading.Tasks;
 
 namespace HumainMecanique.PartiesHumaines
 {
-    public class JambesHumaines : IJambes
+    public class DoigtHumainDroit : IDoigt
     {
-        public PiedHumain PiedGauche { get; }
-        public PiedHumain PiedDroit { get; }
-
         public int Longueur { get; }
-
-        public string Materiel { get; }
-
-        public string Revetement { get; }
     }
 }

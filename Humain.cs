@@ -1,4 +1,5 @@
 ﻿using HumainMecanique.Interfaces;
+using HumainMecanique.PartiesHumaines;
 using HumainMecanique.PartiesMecaniques;
 using System;
 using System.Collections.Generic;
@@ -10,25 +11,24 @@ namespace HumainMecanique
 {
     public class Humain : IHumain
     {
-        public Ibras Ibras { get; }
-
-        public IJambes IJambes { get; }
-
-        public IMain IMain { get; }
-
-        public IDoigt IDoigt { get; }
-
-        public IOrteil IOrteil { get; }
-
+        public string Name { get; }
+        public JambeHumaineDroite JambeHumaineDroite { get; } = new JambeHumaineDroite();
+        public JambeHumaineGauche JambeHumaineGauche { get; } = new JambeHumaineGauche();
+        public BrasHumainDroit BrasHumainDroit { get; } = new BrasHumainDroit();
+        public BrasHumainGauche BrasHumainGauche { get; } = new BrasHumainGauche();
+        public Humain(string name)
+        {
+            Name = name;
+        }
         public BrasMecanique GrefferBras(BrasMecanique brasMecanique)
         {
             return new BrasMecanique();
         }
-        public void MarcherAvecJambeMecanique(JambesMecaniques jambesMecaniques)
+        public void MarcherAvecJambeMecanique(JambeMecanique jambesMecaniques)
         {
             throw new NotImplementedException();
         }
-        public JambesMecaniques GrefferJambes(JambesMecaniques jambesMecaniques)
+        public JambeMecanique GrefferJambes(JambeMecanique jambesMecaniques)
         {
             throw new NotImplementedException();
         }

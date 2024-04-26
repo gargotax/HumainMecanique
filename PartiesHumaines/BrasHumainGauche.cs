@@ -3,14 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using HumainMecanique.Interfaces;
 
-namespace HumainMecanique.Interfaces
+namespace HumainMecanique.PartiesHumaines
 {
-    public interface IJambes
+    public class BrasHumainGauche:IBras
     {
         public int Longueur { get; }
-
-        public string Revetement { get; }
+        public MainHumaineGauche MainGauche { get; }
 
     }
 }

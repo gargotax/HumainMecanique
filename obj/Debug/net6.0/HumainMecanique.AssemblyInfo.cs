@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HumainMecanique")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+136b691337c80dd3b4a75f2b6cb432e61d370043")]
 [assembly: System.Reflection.AssemblyProductAttribute("HumainMecanique")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HumainMecanique")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

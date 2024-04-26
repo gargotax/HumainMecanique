@@ -8,7 +8,6 @@ namespace HumainMecanique.Interfaces
 {
     public interface IMain
     {
-        public string Revetement { get; }
-        public string Materiel { get; }
+        
     }
 }

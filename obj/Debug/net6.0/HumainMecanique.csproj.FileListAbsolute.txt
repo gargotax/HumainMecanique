@@ -12,3 +12,4 @@ C:\Users\HP\Desktop\hachemi\mestests\HumainMecanique\HumainMecanique\obj\Debug\n
 C:\Users\HP\Desktop\hachemi\mestests\HumainMecanique\HumainMecanique\obj\Debug\net6.0\HumainMecanique.pdb
 C:\Users\HP\Desktop\hachemi\mestests\HumainMecanique\HumainMecanique\obj\Debug\net6.0\HumainMecanique.genruntimeconfig.cache
 C:\Users\HP\Desktop\hachemi\mestests\HumainMecanique\HumainMecanique\obj\Debug\net6.0\ref\HumainMecanique.dll
+C:\Users\HP\Desktop\hachemi\mestests\HumainMecanique\HumainMecanique\obj\Debug\net6.0\HumainMecanique.sourcelink.json
